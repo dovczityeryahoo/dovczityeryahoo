@@ -1,4 +1,3 @@
-
 ## - 🕹️ My Job
 
 I'm working as a graphics programmer on a Microsoft Hololens project. 👓
